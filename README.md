@@ -1,3 +1,8 @@
+#
+
+This project aims to create a movie catalogue by fetching movie data from an external api, http://omdbapi.com/apikey.aspx and then displaying
+the relevant movie data on the frontend based on the user's searches
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
