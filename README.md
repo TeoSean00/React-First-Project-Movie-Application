@@ -1,7 +1,9 @@
-#
+# Sean's React MovieApp
 
-This project aims to create a movie catalogue by fetching movie data from an external api, http://omdbapi.com/apikey.aspx and then displaying
-the relevant movie data on the frontend based on the user's searches
+This project aims to create a movie catalogue by fetching movie data from an external api, "http://omdbapi.com/apikey.aspx". It then displays the relevant movies' poster picture, title, along with its type (movie/series) specific to every returned show that fufilled the initial user search.
+
+Find the project LIVE on https://teosean-react-first-solo-project-movieapp.vercel.app/
+
 
 # Getting Started with Create React App
 
