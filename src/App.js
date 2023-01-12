@@ -5,7 +5,7 @@ import SearchIcon from './search.svg'
 import MovieCard from './MovieCard'
 
 // Go to http://omdbapi.com/apikey.aspx to get your own API key
-const APIKey = 'insert your generated API key here'
+const APIKey = 'a0fe56f'
 const APIURL = `http://www.omdbapi.com?apikey=${APIKey}`
 
 // For static demo purposes,
