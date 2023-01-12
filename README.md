@@ -4,6 +4,8 @@ This project aims to create a movie catalogue by fetching movie data from an ext
 
 Find the project LIVE at https://teosean-react-first-solo-project-movieapp.vercel.app/
 
+*Some movies do NOT return poster images
+
 
 # Getting Started with Create React App
 
